@@ -12,22 +12,9 @@ Key features include:
 
 All simulations and control schemes are realized within the joint space control framework, enabling robust and efficient manipulation.
 
-## Repository Contents
+## Contents
 
 - Simulink models for kinematics and dynamics
 - Trajectory generation scripts
 - Control algorithms implemented in joint space
 - Simulation results and visualizations
-
-## Requirements
-
-- MATLAB with Simulink toolbox
-- Robotics System Toolbox (optional but recommended)
-
-## Usage
-
-Open the main Simulink model and run simulations to analyze the manipulator's behavior under various control scenarios.
-
-## License
-
-MIT License
